@@ -17,6 +17,8 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+Use MELI.postman_collection.json to import POSTMAN calls
+
 ## Test
 
 ```bash
